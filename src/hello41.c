@@ -35,8 +35,8 @@
 #include <linux/slab.h>
 #include "hello41.h"
 
-MODULE_AUTHOR("Serhii Popovych <serhii.popovych@globallogic.com>");
-MODULE_DESCRIPTION("Hello, world in Linux Kernel Training");
+MODULE_AUTHOR("Oleksii Chyzhov <chyzhov.oleksii@lll.kpi.ua>");
+MODULE_DESCRIPTION("'Hello, world' module, Lab 4, part 1");
 MODULE_LICENSE("Dual BSD/GPL");
 
 EXPORT_SYMBOL(print_hello);

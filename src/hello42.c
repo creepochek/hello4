@@ -35,8 +35,8 @@
 #include <linux/moduleparam.h>
 #include "hello41.h"
 
-MODULE_AUTHOR("Serhii Popovych <serhii.popovych@globallogic.com>");
-MODULE_DESCRIPTION("Hello2, world in Linux Kernel Training");
+MODULE_AUTHOR("Oleksii Chyzhov <chyzhov.oleksii@lll.kpi.ua>");
+MODULE_DESCRIPTION("'Hello, world' module, Lab 4, part 2");
 MODULE_LICENSE("Dual BSD/GPL");
 
 extern void print_hello(void);
